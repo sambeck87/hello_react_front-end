@@ -37,7 +37,7 @@
 
 **hello-front-end** is a SPA that obtains information from the hello-back-end API and show a random greeting
 
-**This is the back-end project URL** https://github.com/sambeck87/hello_react_back-end
+**This is the back-end project URL** https://github.com/sambeck87/hello_react_back-end/tree/Setup_back-end_project
 
 ## 🛠 Built With <a name="built-with"></a>
 - React
