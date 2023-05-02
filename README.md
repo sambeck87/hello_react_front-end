@@ -11,7 +11,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [🚀 hello-front-end ](#-hello-front-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -37,6 +37,7 @@
 
 **hello-front-end** is a SPA that obtains information from the hello-back-end API and show a random greeting
 
+**This is the back-end project URL** https://github.com/sambeck87/hello_react_back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 - React
